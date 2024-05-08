@@ -1,4 +1,4 @@
-package dev.frank_giger.dashdms.dashdms;
+package dev.frank_giger.dashdms;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
